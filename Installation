@@ -1,0 +1,5 @@
+1.Install Node from the offical website
+2.node --version --> to check the version of node
+3.Install vs code
+4.create react app using commands(npx create-react-app my-app, cd my-app, npm start)
+5.Run app using npm start
